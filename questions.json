@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "question": "Które miasto jest stolicą Francji?",
+        "category": 100,
+        "answers": [
+            { "answer": "Paryż", "id": 1, "is_correct": 1 },
+            { "answer": "Londyn", "id": 1, "is_correct": 0 },
+            { "answer": "Rzym", "id": 1, "is_correct": 0 },
+            { "answer": "Berlin", "id": 1, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Który pierwiastek chemiczny ma symbol 'O'?",
+        "category": 200,
+        "answers": [
+            { "answer": "Wodór", "id": 2, "is_correct": 0 },
+            { "answer": "Tlen", "id": 2, "is_correct": 1 },
+            { "answer": "Hel", "id": 2, "is_correct": 0 },
+            { "answer": "Azot", "id": 2, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "W którym roku wybuchła II wojna światowa?",
+        "category": 300,
+        "answers": [
+            { "answer": "1914", "id": 3, "is_correct": 0 },
+            { "answer": "1939", "id": 3, "is_correct": 1 },
+            { "answer": "1945", "id": 3, "is_correct": 0 },
+            { "answer": "1920", "id": 3, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Który instrument muzyczny ma klawisze?",
+        "category": 400,
+        "answers": [
+            { "answer": "Gitara", "id": 4, "is_correct": 0 },
+            { "answer": "Perkusja", "id": 4, "is_correct": 0 },
+            { "answer": "Skrzypce", "id": 4, "is_correct": 0 },
+            { "answer": "Fortepian", "id": 4, "is_correct": 1 }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Który kontynent jest największy pod względem powierzchni?",
+        "category": 500,
+        "answers": [
+            { "answer": "Afryka", "id": 5, "is_correct": 0 },
+            { "answer": "Ameryka Południowa", "id": 5, "is_correct": 0 },
+            { "answer": "Azja", "id": 5, "is_correct": 1 },
+            { "answer": "Europa", "id": 5, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Który ocean jest największy na świecie?",
+        "category": 600,
+        "answers": [
+            { "answer": "Ocean Atlantycki", "id": 6, "is_correct": 0 },
+            { "answer": "Ocean Indyjski", "id": 6, "is_correct": 0 },
+            { "answer": "Ocean Arktyczny", "id": 6, "is_correct": 0 },
+            { "answer": "Ocean Spokojny", "id": 6, "is_correct": 1 }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Które państwo ma najwięcej ludności na świecie?",
+        "category": 700,
+        "answers": [
+            { "answer": "Indie", "id": 7, "is_correct": 0 },
+            { "answer": "Chiny", "id": 7, "is_correct": 1 },
+            { "answer": "Stany Zjednoczone", "id": 7, "is_correct": 0 },
+            { "answer": "Brazylia", "id": 7, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "W którym roku człowiek wylądował na Księżycu?",
+        "category": 800,
+        "answers": [
+            { "answer": "1965", "id": 8, "is_correct": 0 },
+            { "answer": "1969", "id": 8, "is_correct": 1 },
+            { "answer": "1972", "id": 8, "is_correct": 0 },
+            { "answer": "1959", "id": 8, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Które zwierzę jest największe na świecie?",
+        "category": 900,
+        "answers": [
+            { "answer": "Rekin Wielorybi", "id": 9, "is_correct": 0 },
+            { "answer": "Słoń Afrykański", "id": 9, "is_correct": 0 },
+            { "answer": "Błękitny Wieloryb", "id": 9, "is_correct": 1 },
+            { "answer": "Orka", "id": 9, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Które państwo wygrało najwięcej razy Mistrzostwa Świata w Piłce Nożnej?",
+        "category": 1000,
+        "answers": [
+            { "answer": "Argentyna", "id": 10, "is_correct": 0 },
+            { "answer": "Włochy", "id": 10, "is_correct": 0 },
+            { "answer": "Brazylia", "id": 10, "is_correct": 1 },
+            { "answer": "Niemcy", "id": 10, "is_correct": 0 }
+        ]
+    },
+  {
+        "id": 11,
+        "question": "Jakie jest największe jezioro na świecie?",
+        "category": 100,
+        "answers": [
+            { "answer": "Jezioro Wiktorii", "id": 11, "is_correct": 0 },
+            { "answer": "Jezioro Bajkał", "id": 11, "is_correct": 0 },
+            { "answer": "Morze Kaspijskie", "id": 11, "is_correct": 1 },
+            { "answer": "Jezioro Superior", "id": 11, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 12,
+        "question": "Kto jest autorem obrazu 'Mona Lisa'?",
+        "category": 200,
+        "answers": [
+            { "answer": "Vincent van Gogh", "id": 12, "is_correct": 0 },
+            { "answer": "Pablo Picasso", "id": 12, "is_correct": 0 },
+            { "answer": "Leonardo da Vinci", "id": 12, "is_correct": 1 },
+            { "answer": "Claude Monet", "id": 12, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 13,
+        "question": "Który kraj jest największym producentem kawy na świecie?",
+        "category": 300,
+        "answers": [
+            { "answer": "Kolumbia", "id": 13, "is_correct": 0 },
+            { "answer": "Brazylia", "id": 13, "is_correct": 1 },
+            { "answer": "Wietnam", "id": 13, "is_correct": 0 },
+            { "answer": "Etiopia", "id": 13, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 14,
+        "question": "Które miasto jest znane jako 'Wietrzne Miasto'?",
+        "category": 400,
+        "answers": [
+            { "answer": "Nowy Jork", "id": 14, "is_correct": 0 },
+            { "answer": "Los Angeles", "id": 14, "is_correct": 0 },
+            { "answer": "Chicago", "id": 14, "is_correct": 1 },
+            { "answer": "Miami", "id": 14, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 15,
+        "question": "Która planeta w Układzie Słonecznym jest największa?",
+        "category": 500,
+        "answers": [
+            { "answer": "Saturn", "id": 15, "is_correct": 0 },
+            { "answer": "Jowisz", "id": 15, "is_correct": 1 },
+            { "answer": "Uran", "id": 15, "is_correct": 0 },
+            { "answer": "Neptun", "id": 15, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 16,
+        "question": "Który język ma największą liczbę rodzimych użytkowników?",
+        "category": 600,
+        "answers": [
+            { "answer": "Angielski", "id": 16, "is_correct": 0 },
+            { "answer": "Hiszpański", "id": 16, "is_correct": 0 },
+            { "answer": "Chiński (mandaryński)", "id": 16, "is_correct": 1 },
+            { "answer": "Hinduski", "id": 16, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 17,
+        "question": "Które państwo posiada największą liczbę wysp?",
+        "category": 700,
+        "answers": [
+            { "answer": "Szwecja", "id": 17, "is_correct": 1 },
+            { "answer": "Indonezja", "id": 17, "is_correct": 0 },
+            { "answer": "Filipiny", "id": 17, "is_correct": 0 },
+            { "answer": "Kanada", "id": 17, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 18,
+        "question": "Jaki jest najwyższy szczyt górski w Afryce?",
+        "category": 800,
+        "answers": [
+            { "answer": "Kilimandżaro", "id": 18, "is_correct": 1 },
+            { "answer": "Mount Kenya", "id": 18, "is_correct": 0 },
+            { "answer": "Ras Daszan", "id": 18, "is_correct": 0 },
+            { "answer": "Rwenzori", "id": 18, "is_correct": 0 }
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Który wynalazca jest znany z wynalezienia żarówki?",
+        "category": 900,
+        "answers": [
+            { "answer": "Nikola Tesla", "id": 19, "is_correct": 0 },
+            { "answer": "Albert Einstein", "id": 19, "is_correct": 0 },
+            { "answer": "Alexander Graham Bell", "id": 19, "is_correct": 0 },
+            { "answer": "Thomas Edison", "id": 19, "is_correct": 1 }
+        ]
+    },
+    {
+        "id": 20,
+        "question": "Który kraj wygrał Mistrzostwa Europy w Piłce Nożnej w 2021 roku?",
+        "category": 1000,
+        "answers": [
+            { "answer": "Hiszpania", "id": 20, "is_correct": 0 },
+            { "answer": "Anglia", "id": 20, "is_correct": 0 },
+            { "answer": "Włochy", "id": 20, "is_correct": 1 },
+            { "answer": "Portugalia", "id": 20, "is_correct": 0 }
+        ]
+    }
+]
