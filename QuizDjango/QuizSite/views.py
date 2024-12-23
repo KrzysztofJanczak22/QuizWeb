@@ -52,7 +52,7 @@ def get_question(request):
             return render(request, 'question.html', {'answers': answers, 'question': question, 'category': category, 'message':message})
         else:
             print("Answer is incorrect, redirecting to home")
-            return redirect('/')
+            return render(request, 'lose.html')
     else:
         print("GET request received")
         category = 100

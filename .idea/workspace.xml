@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1589b6b0-4422-49df-9c48-64efeba3c46d" name="Changes" comment="First version">
-      <change afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/static/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/lose.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/question.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/win.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/questions.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ImportToDatabse.py" beforeDir="false" afterPath="$PROJECT_DIR$/ImportToDatabse.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Server-API.py" beforeDir="false" afterPath="$PROJECT_DIR$/Server-API.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/lose.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/lose.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/question.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/question.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/win.html" beforeDir="false" afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/templates/win.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QuizDjango/QuizSite/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/QuizDjango/QuizSite/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KrzysztofJanczak22&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KrzysztofJanczak22/QuizWeb.git&quot;,
+    &quot;accountId&quot;: &quot;12fecb77-971f-4394-9bc7-0abca62f4250&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/QuizDjango/QuizSite/views.py" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -50,6 +58,7 @@
     "Python.ImportToDatabse.executor": "Run",
     "Python.Server-API.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/krzysztof/Pulpit/Studia/TechnologieInternetowe/QuizWeb/QuizDjango/QuizSite/templates",
     "settings.editor.selected.configurable": "advanced.settings"
@@ -98,7 +107,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-d7ad00fb9fc3-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23726.102" />
+        <option value="bundled-python-sdk-1b1018131e27-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.22562.180" />
       </set>
     </attachedChunks>
   </component>
@@ -119,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729357379397</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First version">
+      <option name="closed" value="true" />
+      <created>1730546072134</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730546072134</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
